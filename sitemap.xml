@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://garoleatharva.github.io/articles/categories/</loc>
-  </url><url>
     <loc>https://garoleatharva.github.io/articles/</loc>
+    <lastmod>2025-11-02T01:21:05+05:30</lastmod>
+  </url><url>
+    <loc>https://garoleatharva.github.io/articles/posts/</loc>
+    <lastmod>2025-11-02T01:21:05+05:30</lastmod>
+  </url><url>
+    <loc>https://garoleatharva.github.io/articles/categories/</loc>
   </url><url>
     <loc>https://garoleatharva.github.io/articles/tags/</loc>
   </url>
